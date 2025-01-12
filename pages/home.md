@@ -26,7 +26,6 @@ More information about the [dataset]({{ '/dataset/' | relative_url }}) and [regu
 ## **<span style="color:#2B547E">Important Dates</span>**
 
 - **Challenge duration:** February - May 2025
-- **Registration deadline:** 20 January 2025
 - **Joint kick-off session:** 3 February 2025
 - **Joint [workshop]({{ '/workshop/' | relative_url }}):** 23-24 April 2025
 - **End of challenge:** 16 May 2025
