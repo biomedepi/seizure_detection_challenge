@@ -4,11 +4,6 @@ background: /assets/theme/images/bckg.png
 permalink: /dataset/
 ---
 
-**Coming soon:**
-- Dataset content and statistics.
-- Access guidelines.
-
-
 &nbsp; 
 ### **<span style="color:#2B547E">SeizeIT2 Dataset</span>**
 
