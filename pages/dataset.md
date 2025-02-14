@@ -14,6 +14,8 @@ The **<span style="color:#2B547E">SeizeIT2 public dataset</span>** is a subset o
 
 The complete dataset contains around 11 640 hours of wearable data. Four different modalities were recorded for most participants: bte-EEG, ECG, EMG and movement data. All participants' data within the dataset contain wearable bte-EEG. In 3% of the dataset, ECG, EMG and movement data were not included due to technical failures or errors in the setup. In total, 886 focal seizures were recorded with the wearable device. The mean duration of the recorded seizures was 58 seconds, ranging between 3 seconds and 16 minutes. The majority of the seizures were focal aware (FA) and focal impaired awareness (FIA), with 317 and 393 occurrences, respectively. From the remaining seizures, 55 were focal-to-bilateral tonic clinic (FBTC), 12 were focal with unclear awareness status, 2 were subclinical focal seizures and 93 had unknown or unreported onset. There was a predominance of seizures with onset on the left hemisphere (44%). In 12% of the seizures, the onset was located in the right hemisphere, 1% had a bilateral onset and in 43% of the seizures the onset was unclear. Regarding localization, the seizure onsets were distributed over the central, frontal, temporal, occipital, parietal and insula lobes, with a predominance of temporal lobe seizures (30%). Several seizures recorded could not be paired with a clear onset lobe (26%).
 
+In the context of this challenge, the data was separated in a fixed training, validation and test sets. The training and validation sets are public and will be provided to participants, the test set is privately kept and used for the final evaluation.
+
 &nbsp;
 
 #### Read the [**paper**](https://arxiv.org/abs/2502.01224) for more detailed information about the dataset.
@@ -23,10 +25,6 @@ The complete dataset contains around 11 640 hours of wearable data. Four differe
 #### Download the dataset from the [OpenNeuro repository](https://openneuro.org/datasets/ds005873).
 
 &nbsp;
-
-Here’s the HTML content converted into Markdown:
-
----
 
 **Acknowledgement:**  
 Any published work using these resources (dataset and code) should use proper citation of the dataset paper and repositories:
@@ -58,13 +56,9 @@ publisher = {OpenNeuro},
 }
 ```
 
----
-
-This markdown will keep the list and formatting with code blocks for the citations.
 \
 ![seizeit2]({{ '/assets/theme/images/sz2_setup.png' | relative_url }}){: .rounded .float-end}
 
-\
-In the context of this challenge, the data was separated in a fixed training, validation and test sets. The training and validation sets are public and will be provided to participants, the test set is privately kept and used for the final evaluation.
+
 
 
