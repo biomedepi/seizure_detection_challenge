@@ -4,19 +4,18 @@ background: /assets/theme/images/bckg.png
 permalink: /regulations/
 ---
 
-**Coming soon:**
-- Submission guidelines.
-
 &nbsp; 
 ### **<span style="color:#2B547E">Rules</span>**
 \
 Participants are subject to the following rules:
 
-- Participants must register via the [registration form]({{ '/registration/' | relative_url }}). After the registration, the participants will receive instructions and will be granted access to the dataset and code when released and instructions on how to upload their submissions.
+- Participants must register via the [registration form]({{ '/registration/' | relative_url }}).
 
 - The participation of groups is encouraged. Each group/participant can submit only as an individual or as a team. It is not possible to participate both individually and as a team.
 
-- The data can only be used in the context of the challenge. For any other use of the data the participants must contact the organizers.
+- After registration, participants will receive an email containing detailed steps and useful resources:
+    - Register on the CodaBench platform and enrol on the [**CodaBench competition page**](https://www.codabench.org/competitions/5512).
+    - Follow the participation and submission [guidelines](https://www.codabench.org/competitions/5512/#/pages-tab), you will find all the instructions and resources needed to submit your models.
 
 - The intellectual property (IP) is not transferred to the challenge organizers, i.e., the participants remain the owners of the code shared (when the code is made publicly available, an appropriate license should be added).
 
@@ -32,8 +31,7 @@ In the current use case scenario, in which we use the automatic seizure detectio
 Accounting for the under-reporting of FAs by the OVLP method, we will combine two methods in our scoring formula. Sensitivity will be computed based on OVLP, as mentioned, and FAs rate will be based on epoch-based scoring. EPOCH [1] treats the reference and hypothesis as time series. These signals are sampled at a fixed window length (epoch duration). The corresponding label in the reference is compared to the hypothesis for each epoch. Any possible substitutions, deletions, or insertion errors are tabulated with an equal weight of 1.0 for each type of error. A weighting factor of 0.4 will be used in order to balance sensitivity and FA rate and provide the scoring points.
 \
 ![Scoring]({{ '/assets/theme/images/score.png' | relative_url }})
-\
-The test data contains wearable EEG recorded at in-hospital and outside of the hospital. The score will be separately calculated for each data type. The final score will be composed by a weighted average of each score (to be determined).
+
 
 
 &nbsp;  
