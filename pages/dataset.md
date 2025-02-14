@@ -14,14 +14,27 @@ The **<span style="color:#2B547E">SeizeIT2 public dataset</span>** is a subset o
 
 The complete dataset contains around 11 640 hours of wearable data. Four different modalities were recorded for most participants: bte-EEG, ECG, EMG and movement data. All participants' data within the dataset contain wearable bte-EEG. In 3% of the dataset, ECG, EMG and movement data were not included due to technical failures or errors in the setup. In total, 886 focal seizures were recorded with the wearable device. The mean duration of the recorded seizures was 58 seconds, ranging between 3 seconds and 16 minutes. The majority of the seizures were focal aware (FA) and focal impaired awareness (FIA), with 317 and 393 occurrences, respectively. From the remaining seizures, 55 were focal-to-bilateral tonic clinic (FBTC), 12 were focal with unclear awareness status, 2 were subclinical focal seizures and 93 had unknown or unreported onset. There was a predominance of seizures with onset on the left hemisphere (44%). In 12% of the seizures, the onset was located in the right hemisphere, 1% had a bilateral onset and in 43% of the seizures the onset was unclear. Regarding localization, the seizure onsets were distributed over the central, frontal, temporal, occipital, parietal and insula lobes, with a predominance of temporal lobe seizures (30%). Several seizures recorded could not be paired with a clear onset lobe (26%).
 
+&nbsp;
+
 #### Read the [**paper**](https://arxiv.org/abs/2502.01224) for more detailed information about the dataset.
+
+&nbsp;
 
 #### Download the dataset from the [OpenNeuro repository](https://openneuro.org/datasets/ds005873).
 
-<strong>Acknowledgement:</strong> Any published work using this resources (dataset and code) should use proper citation of the dataset paper and repositories:
-<ul>
-			<li>Bhagubai, M., Chatzichristos, C., Swinnen, L., Macea, J., Zhang, J., Lagae, L., Jansen, K., Schulze-Bonhage, A., Sales, F., Mahler, B., Weber, Y., Paesschen, W. V., & Vos, M. D. (2025). SeizeIT2: Wearable Dataset Of Patients With Focal Epilepsy. https://doi.org/https://doi.org/10.48550/arXiv.2502.01224</li>
-			<pre>@misc{seizeit2_dataset_paper,
+&nbsp;
+
+Here’s the HTML content converted into Markdown:
+
+---
+
+**Acknowledgement:**  
+Any published work using these resources (dataset and code) should use proper citation of the dataset paper and repositories:
+
+- Bhagubai, M., Chatzichristos, C., Swinnen, L., Macea, J., Zhang, J., Lagae, L., Jansen, K., Schulze-Bonhage, A., Sales, F., Mahler, B., Weber, Y., Paesschen, W. V., & Vos, M. D. (2025). *SeizeIT2: Wearable Dataset Of Patients With Focal Epilepsy*. [https://doi.org/https://doi.org/10.48550/arXiv.2502.01224](https://doi.org/https://doi.org/10.48550/arXiv.2502.01224)
+
+```
+@misc{seizeit2_dataset_paper,
 title={SeizeIT2: Wearable Dataset Of Patients With Focal Epilepsy}, 
 author={Miguel Bhagubai and Christos Chatzichristos and Lauren Swinnen and Jaiver Macea and Jingwei Zhang and Lieven Lagae and Katrien Jansen and Andreas Schulze-Bonhage and Francisco Sales and Benno Mahler and Yvonne Weber and Wim Van Paesschen and Maarten De Vos},
 year={2025},
@@ -30,23 +43,28 @@ archivePrefix={arXiv},
 primaryClass={eess.SP},
 url={https://arxiv.org/abs/2502.01224},
 doi={https://doi.org/10.48550/arXiv.2502.01224},
-}</pre>
-			<li>Bhagubai, M. et al. SeizeIT2, doi:10.18112/openneuro.ds005873.v1.0.1</li>
-			<pre>@dataset{seizeit2_repository,
+}
+```
+
+- Bhagubai, M. et al. *SeizeIT2*, doi: [10.18112/openneuro.ds005873.v1.0.1](https://doi.org/10.18112/openneuro.ds005873.v1.0.1)
+
+```
+@dataset{seizeit2_repository,
 author = {Miguel Bhagubai and Christos Chatzichristos and Lauren Swinnen and Jaiver Macea and Jingwei Zhang and Lieven Lagae and Katrien Jansen and Andreas Schulze-Bonhage and Francisco Sales and Benno Mahler and Yvonne Weber and Wim Van Paesschen and Maarten De Vos },
 title = {"SeizeIT2"},
 year = {2025},
 doi = {doi:10.18112/openneuro.ds005873.v1.0.1},
 publisher = {OpenNeuro},
-}</pre>
-</ul>
+}
+```
 
+---
+
+This markdown will keep the list and formatting with code blocks for the citations.
 \
 ![seizeit2]({{ '/assets/theme/images/sz2_setup.png' | relative_url }}){: .rounded .float-end}
 
 \
 In the context of this challenge, the data was separated in a fixed training, validation and test sets. The training and validation sets are public and will be provided to participants, the test set is privately kept and used for the final evaluation.
 
-&nbsp;
-#### Data format:
 
