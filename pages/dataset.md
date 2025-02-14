@@ -18,11 +18,11 @@ In the context of this challenge, the data was separated in a fixed training, va
 
 &nbsp;
 
-#### Read the [**paper**](https://arxiv.org/abs/2502.01224) for more detailed information about the dataset.
+##### Read the [**paper**](https://arxiv.org/abs/2502.01224) for more detailed information about the dataset.
 
 &nbsp;
 
-#### Download the dataset from the [OpenNeuro repository](https://openneuro.org/datasets/ds005873).
+##### Download the dataset from the [**OpenNeuro repository**](https://openneuro.org/datasets/ds005873).
 
 &nbsp;
 
