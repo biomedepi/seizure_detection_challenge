@@ -35,7 +35,7 @@ The **top 2** teams at a mid-point of the challenge duration will be invited to 
     <tr><td>12:15 – 12:45</td><td>From seizure detection to Seizure prediction (TBC)</td><td>Javier Escudero</td></tr>
     <tr style="background-color:rgb(30, 170, 180); height: 2px;"><td>12:45 – 14:00</td><td>Lunch</td><td></td></tr>
     <tr><td>14:00 – 15:00</td><td>Epilepsy Data Challenge – Datathon (hands-on development and Q&A)</td><td></td></tr>
-    <tr><td>15:00 – 16:00</td><td>Panel Discussion</td><td>All: Maarten De Vos, Brian MacNamee, Roy de Kleijn, Javier Escudero, Jaiver Macea, Miguel Bhagubai, Christos Chatzichristos</td></tr>
+    <tr><td>15:00 – 16:00</td><td>Panel Discussion</td><td>All: Maarten De Vos, Brian MacNamee, Roy de Kleijn, Juan Antonio Recio Garcia, Javier Escudero, Jaiver Macea, Miguel Bhagubai, Christos Chatzichristos</td></tr>
     <tr style="background-color:rgb(30, 170, 180); height: 2px;"><td>16:00 – 16:30</td><td>Coffee Break</td><td></td></tr>
     <tr><td>16:30 – 17:00</td><td>Epilepsy Data Challenge – Continued</td><td></td></tr>
 </table>
@@ -49,8 +49,9 @@ The **top 2** teams at a mid-point of the challenge duration will be invited to 
         <th>Title</th>
         <th>Presenter</th>
     </tr>
-    <tr><td>9:00 – 9:30</td><td>Seizure detection with deep neural networks for review of two‐channel electroencephalogram (TBC)</td><td>Manfred Hartmann</td></tr>
-    <tr><td>9:30 – 10:00</td><td>Chimera-like states in epilepsy - brain dynamics during focal seizures (TBC)</td><td>Saptarshi Ghosh</td></tr>
+    <tr><td>8:30 – 9:00</td><td>Seizure detection with deep neural networks for review of two‐channel electroencephalogram (TBC)</td><td>Manfred Hartmann</td></tr>
+    <tr><td>9:00 – 9:30</td><td>Chimera-like states in epilepsy - brain dynamics during focal seizures (TBC)</td><td>Saptarshi Ghosh</td></tr>
+    <tr><td>9:30 – 10:00</td><td>Explainable AI (TBC)</td><td>Juan Antonio Recio Garcia</td></tr>
     <tr><td>10:00 – 10:30</td><td>(TBC)</td><td>Roy de Kleijn</td></tr>
     <tr style="background-color:rgb(30, 170, 180); height: 2px;"><td>10:30 – 10:45</td><td>Coffee Break</td><td></td></tr>
     <tr><td>10:45 – 12:00</td><td>Epilepsy Data Challenge – Datathon (continuation)</td><td></td></tr>
