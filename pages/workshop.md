@@ -34,7 +34,7 @@ A joint workshop will take place on the 23rd and 24th of April, 2025, at KU Leuv
     <tr><td>12:30 – 13:00</td><td>Thinking in Spikes: Neuromorphic Hardware for Low-power Seizure Monitoring</td><td>Olympia Gallou</td></tr>
     <tr style="background-color:rgb(30, 170, 180); height: 2px;"><td>13:00 – 14:30</td><td>Lunch</td><td></td></tr>
     <tr><td>14:30 – 15:00</td><td>Seizure detection with deep neural networks for review of two‐channel electroencephalogram</td><td>Manfred Hartmann</td></tr>
-    <tr><td>15:00 – 15:30</td><td>(TBC)</td><td>Philipp Bomatter</td></tr>
+    <tr><td>15:00 – 15:30</td><td>Machine Learning Challenges In Seizure Detection</td><td>Philipp Bomatter</td></tr>
     <tr><td>15:30 – 16:00</td><td>Epilepsy Data Challenge – Datathon (hands-on development and Q&A)</td><td></td></tr>
     <tr style="background-color:rgb(30, 170, 180); height: 2px;"><td>16:00 – 16:30</td><td>Coffee Break</td><td></td></tr>
     <tr><td>16:30 – 17:00</td><td>Epilepsy Data Challenge – Datathon (hands-on development and Q&A)</td><td></td></tr>
